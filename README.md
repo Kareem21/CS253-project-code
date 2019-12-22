@@ -2,12 +2,12 @@ Imagine manipulation program that rotates,transforms and mirrors .alpha and .PGM
 
 Tasks included: Ability to rotate by factors 
 
-The final task was to optimize the code and one of the things I did was add the O3 flag.
+The final task was to optimize the code and one of the things I did was add the O3 flag to the makefile.
 
 Try it out
 
-1 - Clone the repo or download the code.
+1 - Clone the repo or download the source code.
 
 2 - Go to the directory containing the files and type "make" in a Linux terminal. 
 
-3 - 
+3 - Run the executable 
